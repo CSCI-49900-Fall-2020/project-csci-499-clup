@@ -1,6 +1,3 @@
-# CustomerLineup 
-Link to deployment: http://64.225.27.198:8000/
-
 ### Final Written Report
  https://github.com/CSCI-49900-Fall-2020/project-csci-clup/wiki/CLup-Final-Written-Report
 
